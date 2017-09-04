@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="food1">Meatballs</string>
+    <string name="food2">Chicken</string>
+    <string name="food3">Fish</string>
+    <string name="food4">Steak</string>
+    <string name="food5">Carrots</string>
+</resources>
